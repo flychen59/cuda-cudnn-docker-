@@ -1,0 +1,15 @@
+cuda
+官网下载runetine文件
+设置环境变量
+
+nvcc -V检测是否安装好了
+
+cudnn
+下载linux libary文件
+拷贝文件（version文件考过去还有cudnn.h）
+检测一下版本
+
+
+docker 
+直接官网下载就可以了
+https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#installing-on-ubuntu-and-debian
