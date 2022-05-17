@@ -17,4 +17,5 @@ cudnn
 
 docker 
 直接官网下载就可以了
+docekr1 和 docker 2都要装，并且要装容器内显卡驱动
 https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#installing-on-ubuntu-and-debian
