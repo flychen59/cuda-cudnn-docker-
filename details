@@ -1,7 +1,12 @@
+anconda
+https://blog.csdn.net/m0_50117360/article/details/108403586
+
 cuda
+
+https://blog.csdn.net/m0_46825740/article/details/121418113
+https://blog.csdn.net/h3c4lenovo/article/details/119003405#commentBox
 官网下载runetine文件
 设置环境变量
-
 nvcc -V检测是否安装好了
 
 cudnn
